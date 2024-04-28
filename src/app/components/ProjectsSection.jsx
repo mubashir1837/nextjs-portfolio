@@ -11,7 +11,7 @@ const projectsData = [
     description: "This is an ecommerce website design with HTML. CSS and JavaScript",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/mubashir1837/online_shopping",
     previewUrl: "https://ecommerce-m.vercel.app/",
   },
   {
@@ -39,7 +39,7 @@ const projectsData = [
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/mubashir1837/python2024",
-    previewUrl: "/",
+    previewUrl: "https://github.com/mubashir1837/python2024",
   },
   {
     id: 5,
@@ -47,8 +47,8 @@ const projectsData = [
     description: "This is a nextjs portfolio ",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "https://mubashirali.vercel.app/",
+    gitUrl: "https://github.com/mubashir1837/portfolio",
+    previewUrl: "https://mubashirale.vercel.app/",
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const projectsData = [
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://mubashirali.vercel.app",
   },
 ];
 
