@@ -30,7 +30,7 @@ const Navbar = () => {
           href={"/"}
           className="text-2xl md:text-5xl text-white font-semi-bold"
         >
-          ༺≛⃝𝓟𝓞𝓡𝓣𝓞𝓛𝓘𝓞༻
+          𝓜𝓾𝓫𝓪𝓼𝓱𝓲𝓻 𝓐𝓵𝓲
         </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
