@@ -8,7 +8,7 @@ import AchievementsSection from "./components/AchievementsSection";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col bg-gradient-to-r from-purple-600 to-indigo-600">
+    <main className="flex min-h-screen flex-col bg-gradient-to-r from-[#463f96] to-[#1db9b9]">
       <Navbar />
       <div className="container mt-24 mx-auto px-12 py-4">
         <HeroSection />
